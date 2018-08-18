@@ -2,5 +2,6 @@ Hello Rainbow
 
 Green
 pink
+red
 blue
 black
